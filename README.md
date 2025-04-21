@@ -1,31 +1,31 @@
 # Awesome MCP
 
-A curated list of awesome Model Context Protocol (MCP) repositories. Currently tracking 1682 repositories. This list is automatically updated every hour.
+A curated list of awesome Model Context Protocol (MCP) repositories. Currently tracking 1684 repositories. This list is automatically updated every hour.
 
 | Repository | Description | Stars | Author |
 |------------|-------------|-------|--------|
-| [open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 90602 | [@open-webui](https://github.com/open-webui) (open-webui) |
-| [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 84167 | [@n8n-io](https://github.com/n8n-io) (n8n-io) |
+| [open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) | 90603 | [@open-webui](https://github.com/open-webui) (open-webui) |
+| [n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | 84176 | [@n8n-io](https://github.com/n8n-io) (n8n-io) |
 | [anything-llm](https://github.com/Mintplex-Labs/anything-llm) | The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. | 43112 | [@Mintplex-Labs](https://github.com/Mintplex-Labs) (Mintplex-Labs) |
-| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | 41090 | [@punkpeye](https://github.com/punkpeye) |
-| [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | 14896 | [@yamadashy](https://github.com/yamadashy) |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | 41099 | [@punkpeye](https://github.com/punkpeye) |
+| [repomix](https://github.com/yamadashy/repomix) | 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more. | 14898 | [@yamadashy](https://github.com/yamadashy) |
 | [activepieces](https://github.com/activepieces/activepieces) | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents | 13926 | [@activepieces](https://github.com/activepieces) (activepieces) |
-| [mastra](https://github.com/mastra-ai/mastra) | The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. | 12271 | [@mastra-ai](https://github.com/mastra-ai) (mastra-ai) |
-| [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language. | 12125 | [@bytedance](https://github.com/bytedance) (bytedance) |
-| [github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server | 11858 | [@github](https://github.com/github) (github) |
+| [mastra](https://github.com/mastra-ai/mastra) | The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. | 12272 | [@mastra-ai](https://github.com/mastra-ai) (mastra-ai) |
+| [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language. | 12128 | [@bytedance](https://github.com/bytedance) (bytedance) |
+| [github-mcp-server](https://github.com/github/github-mcp-server) | GitHub's official MCP Server | 11861 | [@github](https://github.com/github) (github) |
 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | Playwright MCP server | 8607 | [@microsoft](https://github.com/microsoft) (microsoft) |
-| [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | 8106 | [@patchy631](https://github.com/patchy631) |
+| [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. | 8107 | [@patchy631](https://github.com/patchy631) |
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 \| MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。 | 7921 | [@AstrBotDevs](https://github.com/AstrBotDevs) (AstrBotDevs) |
-| [Upsonic](https://github.com/Upsonic/Upsonic) | The most reliable AI agent framework that supports MCP. | 7350 | [@Upsonic](https://github.com/Upsonic) (Upsonic) |
+| [Upsonic](https://github.com/Upsonic/Upsonic) | The most reliable AI agent framework that supports MCP. | 7351 | [@Upsonic](https://github.com/Upsonic) (Upsonic) |
 | [agentscope](https://github.com/modelscope/agentscope) | Start building LLM-empowered multi-agent applications in an easier way. | 7105 | [@modelscope](https://github.com/modelscope) (modelscope) |
 | [lamda](https://github.com/firerpa/lamda) | 🤖  The most powerful Android RPA framework, the next generation of mobile automation robots. | 6853 | [@firerpa](https://github.com/firerpa) (firerpa) |
-| [fastmcp](https://github.com/jlowin/fastmcp) | 🚀 The fast, Pythonic way to build MCP servers and clients | 6767 | [@jlowin](https://github.com/jlowin) |
+| [fastmcp](https://github.com/jlowin/fastmcp) | 🚀 The fast, Pythonic way to build MCP servers and clients | 6772 | [@jlowin](https://github.com/jlowin) |
 | [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | MCP server to provide Figma layout information to AI coding agents like Cursor | 5618 | [@GLips](https://github.com/GLips) |
-| [mcp-agent](https://github.com/lastmile-ai/mcp-agent) | Build effective agents using Model Context Protocol and simple workflow patterns | 3903 | [@lastmile-ai](https://github.com/lastmile-ai) (lastmile-ai) |
-| [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) | Monitor browser logs directly from Cursor and other MCP compatible IDEs. | 3546 | [@AgentDeskAI](https://github.com/AgentDeskAI) (AgentDeskAI) |
+| [mcp-agent](https://github.com/lastmile-ai/mcp-agent) | Build effective agents using Model Context Protocol and simple workflow patterns | 3904 | [@lastmile-ai](https://github.com/lastmile-ai) (lastmile-ai) |
+| [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) | Monitor browser logs directly from Cursor and other MCP compatible IDEs. | 3548 | [@AgentDeskAI](https://github.com/AgentDeskAI) (AgentDeskAI) |
 | [ENScan_GO](https://github.com/wgpsec/ENScan_GO) | 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入 | 3529 | [@wgpsec](https://github.com/wgpsec) (wgpsec) |
-| [fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools. | 3526 | [@tadata-org](https://github.com/tadata-org) (tadata-org) |
-| [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | WhatsApp MCP server | 3445 | [@lharries](https://github.com/lharries) |
+| [fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools. | 3527 | [@tadata-org](https://github.com/tadata-org) (tadata-org) |
+| [whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) | WhatsApp MCP server | 3446 | [@lharries](https://github.com/lharries) |
 | [core](https://github.com/opensumi/core) | A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server. | 3320 | [@opensumi](https://github.com/opensumi) (opensumi) |
 | [5ire](https://github.com/nanbingxyz/5ire) | 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . | 3190 | [@nanbingxyz](https://github.com/nanbingxyz) |
 | [cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) | Cursor Talk To Figma MCP | 3150 | [@sonnylazuardi](https://github.com/sonnylazuardi) |
@@ -33,38 +33,38 @@ A curated list of awesome Model Context Protocol (MCP) repositories. Currently t
 | [ruoyi-ai](https://github.com/ageerle/ruoyi-ai) | RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。 | 2830 | [@ageerle](https://github.com/ageerle) |
 | [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | Awesome MCP Servers - A curated list of Model Context Protocol servers | 2744 | [@appcypher](https://github.com/appcypher) |
 | [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | A collection of MCP clients. | 2527 | [@punkpeye](https://github.com/punkpeye) |
-| [mcp](https://github.com/awslabs/mcp) | AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow | 2324 | [@awslabs](https://github.com/awslabs) (awslabs) |
-| [mcp-use](https://github.com/pietrozullo/mcp-use) | mcp-use is the easiest way to interact with mcp servers with custom agents | 2107 | [@pietrozullo](https://github.com/pietrozullo) |
+| [mcp](https://github.com/awslabs/mcp) | AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow | 2325 | [@awslabs](https://github.com/awslabs) (awslabs) |
+| [mcp-use](https://github.com/pietrozullo/mcp-use) | mcp-use is the easiest way to interact with mcp servers with custom agents | 2109 | [@pietrozullo](https://github.com/pietrozullo) |
 | [Olares](https://github.com/beclab/Olares) | Olares: An Open-Source Sovereign Cloud OS for Local AI | 1992 | [@beclab](https://github.com/beclab) (beclab) |
-| [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities | 1849 | [@wonderwhy-er](https://github.com/wonderwhy-er) |
-| [unity-mcp](https://github.com/justinpbarnett/unity-mcp) | A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions. | 1706 | [@justinpbarnett](https://github.com/justinpbarnett) |
+| [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities | 1851 | [@wonderwhy-er](https://github.com/wonderwhy-er) |
+| [unity-mcp](https://github.com/justinpbarnett/unity-mcp) | A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions. | 1707 | [@justinpbarnett](https://github.com/justinpbarnett) |
 | [git-mcp](https://github.com/idosal/git-mcp) | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project | 1691 | [@idosal](https://github.com/idosal) |
 | [comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) | LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG | 1625 | [@heshengtao](https://github.com/heshengtao) |
 | [harbor](https://github.com/av/harbor) | Effortlessly run LLM backends, APIs, frontends, and services with one command. | 1594 | [@av](https://github.com/av) |
 | [MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) | Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects. | 1587 | [@minecraft-dev](https://github.com/minecraft-dev) (minecraft-dev) |
-| [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | MCP Server for IDA Pro | 1527 | [@mrexodia](https://github.com/mrexodia) |
+| [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | MCP Server for IDA Pro | 1529 | [@mrexodia](https://github.com/mrexodia) |
 | [markdownify-mcp](https://github.com/zcaceres/markdownify-mcp) | A Model Context Protocol server for converting almost anything to Markdown | 1398 | [@zcaceres](https://github.com/zcaceres) |
 | [chatmcp](https://github.com/daodao97/chatmcp) | ChatMCP is an AI chat client implementing the Model Context Protocol (MCP). | 1344 | [@daodao97](https://github.com/daodao97) |
 | [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) | Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Rancher Desktop, and Kubernetes. | 1323 | [@panaversity](https://github.com/panaversity) (panaversity) |
-| [mcpo](https://github.com/open-webui/mcpo) | A simple, secure MCP-to-OpenAPI proxy server | 1306 | [@open-webui](https://github.com/open-webui) (open-webui) |
+| [mcpo](https://github.com/open-webui/mcpo) | A simple, secure MCP-to-OpenAPI proxy server | 1307 | [@open-webui](https://github.com/open-webui) (open-webui) |
 | [fastmcp](https://github.com/punkpeye/fastmcp) | A TypeScript framework for building MCP servers. | 1265 | [@punkpeye](https://github.com/punkpeye) |
 | [MCP-Reborn](https://github.com/Hexeption/MCP-Reborn) | MCP-Reborn is an MCP (Mod Coder Pack) for Minecraft for making modded clients and researching its code. (1.13-1.21.4) | 1190 | [@Hexeption](https://github.com/Hexeption) |
 | [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients | 1175 | [@yzfly](https://github.com/yzfly) |
+| [context7](https://github.com/upstash/context7) | Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors | 1174 | [@upstash](https://github.com/upstash) (upstash) |
 | [MCP-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide) | Model Context Protocol(MCP) 编程极速入门 | 1159 | [@liaokongVFX](https://github.com/liaokongVFX) |
-| [context7](https://github.com/upstash/context7) | Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors | 1157 | [@upstash](https://github.com/upstash) (upstash) |
 | [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) | A curated collection of top-tier penetration testing tools and productivity utilities across multiple domains. Join us to explore, contribute, and enhance your hacking toolkit! | 1087 | [@taielab](https://github.com/taielab) |
 | [mcp](https://github.com/BrowserMCP/mcp) | Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser | 1073 | [@BrowserMCP](https://github.com/BrowserMCP) (BrowserMCP) |
 | [mcp-directory](https://github.com/chatmcp/mcp-directory) | directory for Awesome MCP Servers | 1042 | [@chatmcp](https://github.com/chatmcp) (chatmcp) |
 | [mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | MCP server for Atlassian tools (Confluence, Jira) | 1032 | [@sooperset](https://github.com/sooperset) |
 | [nerve](https://github.com/evilsocket/nerve) | The Simple Agent Development Kit. | 1004 | [@evilsocket](https://github.com/evilsocket) |
 | [witsy](https://github.com/nbonamy/witsy) | Witsy: desktop AI assistant | 937 | [@nbonamy](https://github.com/nbonamy) |
-| [mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) | Allow LLMs to control a browser with Browserbase and Stagehand | 931 | [@browserbase](https://github.com/browserbase) (browserbase) |
+| [mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) | Allow LLMs to control a browser with Browserbase and Stagehand | 935 | [@browserbase](https://github.com/browserbase) (browserbase) |
 | [flock](https://github.com/Onelevenvy/flock) | Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain、FastAPI 和 NextJS 构建。） | 794 | [@Onelevenvy](https://github.com/Onelevenvy) |
 | [anyquery](https://github.com/julien040/anyquery) | Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP | 748 | [@julien040](https://github.com/julien040) |
 | [minima](https://github.com/dmayboroda/minima) | On-premises conversational RAG with configurable containers | 714 | [@dmayboroda](https://github.com/dmayboroda) |
 | [lisa.py](https://github.com/ant4g0nist/lisa.py) | LLDB MCP Integration + other helpful commands | 713 | [@ant4g0nist](https://github.com/ant4g0nist) |
-| [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) | A powerful Neovim plugin for managing MCP (Model Context Protocol) servers | 698 | [@ravitemer](https://github.com/ravitemer) |
-| [genai-toolbox](https://github.com/googleapis/genai-toolbox) | MCP Toolbox for Databases is an open source MCP server for databases, designed and built with enterprise-quality and production-grade use in mind. | 679 | [@googleapis](https://github.com/googleapis) (googleapis) |
+| [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) | A powerful Neovim plugin for managing MCP (Model Context Protocol) servers | 699 | [@ravitemer](https://github.com/ravitemer) |
+| [genai-toolbox](https://github.com/googleapis/genai-toolbox) | MCP Toolbox for Databases is an open source MCP server for databases, designed and built with enterprise-quality and production-grade use in mind. | 680 | [@googleapis](https://github.com/googleapis) (googleapis) |
 | [agent-toolkit](https://github.com/stripe/agent-toolkit) | Python and TypeScript library for integrating the Stripe API into agentic workflows | 658 | [@stripe](https://github.com/stripe) (stripe) |
 | [MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) | A middleware to provide an openAI compatible endpoint that can call MCP tools | 654 | [@SecretiveShell](https://github.com/SecretiveShell) |
 | [fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) | MCP server for fetch web page content using Playwright headless browser. | 597 | [@jae-jae](https://github.com/jae-jae) |
@@ -72,8 +72,8 @@ A curated list of awesome Model Context Protocol (MCP) repositories. Currently t
 | [elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) | The official ElevenLabs MCP server | 587 | [@elevenlabs](https://github.com/elevenlabs) (elevenlabs) |
 | [AITreasureBox](https://github.com/superiorlu/AITreasureBox) | 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎  | 574 | [@superiorlu](https://github.com/superiorlu) |
 | [kagent](https://github.com/kagent-dev/kagent) | Cloud Native Agentic AI \| Discord: https://bit.ly/kagentdiscord | 574 | [@kagent-dev](https://github.com/kagent-dev) (kagent-dev) |
-| [mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) | Connect to MCP servers that run on SSE transport, or expose stdio servers as an SSE server using the MCP Proxy server. | 550 | [@sparfenyuk](https://github.com/sparfenyuk) |
-| [nuxt-mcp](https://github.com/antfu/nuxt-mcp) | MCP server helping models to understand your Vite/Nuxt app better. | 549 | [@antfu](https://github.com/antfu) |
+| [mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) | Connect to MCP servers that run on SSE transport, or expose stdio servers as an SSE server using the MCP Proxy server. | 551 | [@sparfenyuk](https://github.com/sparfenyuk) |
+| [nuxt-mcp](https://github.com/antfu/nuxt-mcp) | MCP server helping models to understand your Vite/Nuxt app better. | 551 | [@antfu](https://github.com/antfu) |
 | [basic-memory](https://github.com/basicmachines-co/basic-memory) | Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants. All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data. Integrates directly with Obsidan.md | 546 | [@basicmachines-co](https://github.com/basicmachines-co) (basicmachines-co) |
 | [AI-Gateway](https://github.com/Azure-Samples/AI-Gateway) | APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀 | 545 | [@Azure-Samples](https://github.com/Azure-Samples) (Azure-Samples) |
 | [mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) | A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio | 526 | [@JetBrains](https://github.com/JetBrains) (JetBrains) |
@@ -97,13 +97,13 @@ A curated list of awesome Model Context Protocol (MCP) repositories. Currently t
 | [mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) | A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases | 360 | [@designcomputer](https://github.com/designcomputer) |
 | [browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) | Browse the web, directly from Cursor etc. | 357 | [@co-browser](https://github.com/co-browser) (co-browser) |
 | [guMCP](https://github.com/gumloop/guMCP) | Gumloop Unified Model Context Protocol (guMCP) | 335 | [@gumloop](https://github.com/gumloop) (gumloop) |
-| [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) | A Model Context Protocol server for Excel file manipulation | 333 | [@haris-musa](https://github.com/haris-musa) |
+| [excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) | A Model Context Protocol server for Excel file manipulation | 334 | [@haris-musa](https://github.com/haris-musa) |
 | [Minecraft-Hack-BaseClient](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient) | This is a Minecraft Base Client | 317 | [@OxideWaveLength](https://github.com/OxideWaveLength) |
 | [RedNote-MCP](https://github.com/iFurySt/RedNote-MCP) | 🚀MCP server for accessing RedNote(XiaoHongShu, xhs). | 312 | [@iFurySt](https://github.com/iFurySt) |
+| [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) | A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients. | 312 | [@cameroncooke](https://github.com/cameroncooke) |
 | [godot-mcp](https://github.com/Coding-Solo/godot-mcp) | MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output. | 312 | [@Coding-Solo](https://github.com/Coding-Solo) |
-| [XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) | A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients. | 311 | [@cameroncooke](https://github.com/cameroncooke) |
 | [VectorCode](https://github.com/Davidyz/VectorCode) | A code repository indexing tool to supercharge your LLM experience. | 297 | [@Davidyz](https://github.com/Davidyz) |
-| [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Physical Devices) | 295 | [@mobile-next](https://github.com/mobile-next) (mobile-next) |
+| [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Physical Devices) | 296 | [@mobile-next](https://github.com/mobile-next) (mobile-next) |
 
 ## Contributing
 
